@@ -54,21 +54,6 @@ python app.py
 http://127.0.0.1:5000/
 ```
 
-## Project Structure
-
-```
-aggregate-calculator/
-│
-├── app.py                   # Flask application entry point
-├── calculations.py          # Function to calculate aggregate score
-├── requirements.txt         # Python dependencies
-├── static/
-│   ├── style.css            # CSS for styling the web page
-│   └── script.js            # JavaScript for handling form submission
-└── templates/
-    └── index.html           # HTML template for the web page
-```
-
 ## Usage
 
 1. Enter the grades for compulsory and optional courses in the input fields. The grades must be positive integers.
