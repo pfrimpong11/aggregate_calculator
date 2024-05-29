@@ -64,5 +64,3 @@ http://127.0.0.1:5000/
 
 - The application will cap any grades above 4 at 4.
 - If a course grade is not provided, the application will default it to 4 for the calculation.
-
-```
