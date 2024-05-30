@@ -86,3 +86,19 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+@media (max-width: 768px) {
+    .main-container {
+        margin-top: 50px;
+    }
+
+    .elective-container,
+    .core-container {
+        /* width: 48%; */
+        margin: 0 10px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+}
